@@ -1,0 +1,8 @@
+outdis			Reserved Word-In_Out	Output Statement
+inscan			Reserved Word-In_Out	Input Statement
+incase			Reserved Word-Cond	If/Conditional Statement
+then			Reserved Word-Cond	Else..if/Conditional Statement
+else			Reserved Word-Cond	Else/Conditional Statement
+amid			Reserved Word-Loop	While/Loop Statement
+act			Reserved Word-Loop	Do/Loop Statement
+forloop			Reserved Word-Loop	For/Loop Statement

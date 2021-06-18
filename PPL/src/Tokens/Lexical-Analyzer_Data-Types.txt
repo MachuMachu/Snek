@@ -1,0 +1,3 @@
+Integral		Numeric Data Type	Integral data Type
+Decimal			Numeric Data Type	Decimal data Type
+Text			Character Data Type	Char data Type

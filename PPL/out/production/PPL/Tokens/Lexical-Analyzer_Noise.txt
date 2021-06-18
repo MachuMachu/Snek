@@ -1,0 +1,2 @@
+start			Noise Word_Start	Program_beginning
+end			Noise Word_End		Program_end

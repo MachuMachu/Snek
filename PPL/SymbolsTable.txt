@@ -1,0 +1,25 @@
+Lexeme			Token			Definition
++			Operator-Arithmetic			Addition Symbol
+-			Operator-Arithmetic			Subtraction Symbol
+/			Operator-Arithmetic			Division Symbol
+*			Operator-Arithmetic			Multiplication Symbol
+^			Operator-Arithmetic			Exponential Symbol
+||			Operator-Logic			OR Symbol
+&			Operator-Logic			AND Symbol
+!			Operator-Logic			NOT Symbol
+<			Operator-Relational			Less Than
+>			Operator-Relational			Greater Than
+=			Operator-Relational			Equal Symbol
+<|=			Operator-Relational			Less than or Equal to Symbol
+>|=			Operator-Relational			Greater than or Equal to Symbol
+!!			Operator-Relational			Not Equal Symbol
+:=			Operator-Assignment			Assignment Symbol
+(			Delimiter			Open Parenthesis - Start of Expression
+)			Delimiter			Close Parenthesis - End of Expression
+"			Delimiter			Double Quotation - Encloses String Literal
+{			Bracket			Open Curly Bracket - Encloses Program Body
+}			Bracket			Close Curly Bracket - Encloses Program Body
+;			Delimiter			Semicolon - End of Line
+>>			Delimiter			Double Angle Bracket - Single Line Comment
+>/			Delimiter			Open Symbol - Multi-Line Comment
+/<			Delimiter			Close Symbol - Multi-Line Comment

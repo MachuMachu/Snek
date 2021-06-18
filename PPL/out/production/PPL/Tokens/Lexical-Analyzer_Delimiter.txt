@@ -1,0 +1,9 @@
+(			Delimiter		Open Parenthesis Start of Expression
+)			Delimiter		Close Parenthesis End of Expression
+"			Delimiter		Open Double Quotation Encloses String Literal
+"			Delimiter		Close Double Quotation Encloses String Literal
+{			Bracket			Open Curly Bracket Encloses Program Body
+}			Bracket			Close Curly Bracket Encloses Program Body
+;			Delimiter		Semicolon End of Line
+>>			Delimiter		Double Angle Bracket Single Line Comment
+>><<			Delimiter		Closed Double Angle Bracket Multi-Line Comment

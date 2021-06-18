@@ -1,0 +1,18 @@
+Lexeme			Token			Definition
+Main			Reserved Word-Main			Indicates start of the program 
+outdis			Reserved Word-In_Out			Output Statement
+inscan			Reserved Word-In_Out			Input Statement
+incase			Reserved Word-Cond			If/Conditional Statement
+then			Reserved Word-Cond			Else..if/Conditional Statement
+else			Reserved Word-Cond			Else/Conditional Statement
+amid			Reserved Word-Loop			While/Loop Statement
+act			Reserved Word-Loop			Do/Loop Statement
+forloop			Reserved Word-Loop			For/Loop Statement
+Start			Noise Word_Start			Program_beginning
+End			Noise Word_End				Program_end
+true			Keyword-True			Boolean Value
+false			Keyword-False			Boolean Value
+boolean			Data Type			Boolean Data Type
+integral			Numeric Data Type			Integral data Type
+decimal			Numeric Data Type			Decimal data Type
+text			Character Data Type			Char data Type
